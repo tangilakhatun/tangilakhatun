@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   
 # 💫 About Me:
 Hi, I'm Tangila<br><br>I am a frontend developer who enjoys creating clean, modern and responsive web interfaces.<br>My focus is on building user-friendly and visually balanced designs using HTML, CSS, Tailwind CSS, JavaScript and React.<br><br>I like turning ideas into smooth and functional web experiences. I care about writing clean code,<br>keeping designs minimal, and making websites work perfectly on every device.<br><br>Right now, I am learning advanced React, API integration and improving my understanding of<br>good UI and UX design. My goal is to become a skilled frontend developer who can build<br>complete, production-ready applications.<br><br>Thanks for visiting my profile. I hope you enjoy exploring my work.<br>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tangila.khatun.973846) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ktangila6@gmail.com) 
