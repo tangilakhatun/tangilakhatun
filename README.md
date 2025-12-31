@@ -99,20 +99,6 @@ Thanks for visiting my profile. I hope you enjoy exploring my work.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tangilakhatun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tangilakhatun&show_icons=true&theme=radical" />
-
-<img src="https://streak-stats.demolab.com?user=tangilakhatun&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangilakhatun&layout=compact&theme=radical" />
-
----
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tangilakhatun&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=tangilakhatun&theme=radical&margin-w=10" />
 ### ✍️ Random Dev Quote
