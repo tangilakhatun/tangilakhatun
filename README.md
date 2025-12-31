@@ -101,7 +101,7 @@ Thanks for visiting my profile. I hope you enjoy exploring my work.
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tangilakhatun&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=tangilakhatun&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
 
@@ -111,10 +111,5 @@ Thanks for visiting my profile. I hope you enjoy exploring my work.
 ---
 
 ### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=tangilakhatun&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=tangilakhatun&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://github-contributor-stats.vercel.app/api?username=tangilakhatun&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=tangilakhatun&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
