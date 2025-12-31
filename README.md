@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://i.ibb.co.com/wZ1LSWxv/Tangila-Khatun-2.png)
 
 # Hi there 👋
 
@@ -94,7 +94,8 @@ Thanks for visiting my profile. I hope you enjoy exploring my work.
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tangilakhatun&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=tangilakhatun&theme=gruvbox&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tangilakhatun&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tangilakhatun&theme=dark&no-frame=true&no-bg=true&margin-w=4) ### 
-🔝 Top Contributed Repo
+
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Top Contributed Repo 
 ![](https://github-contributor-stats.vercel.app/api?username=tangilakhatun&limit=5&theme=radical&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=tangilakhatun&icon=2&color=10)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
