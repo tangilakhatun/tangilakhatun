@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co.com/wZ1LSWxv/Tangila-Khatun-2.png" width="1280" height="320" />
-
-
+<img src="https://i.ibb.co/wZ1LSWxv/Tangila-Khatun-2.png" width="1280" height="320" alt="Tangila Khatun Banner" />
 # Hi there 👋
 
 - 🔭 I’m currently working on web development projects  
