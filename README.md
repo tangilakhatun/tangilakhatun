@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co.com/wZ1LSWxv/Tangila-Khatun-2.png)
+<img src="https://i.ibb.co.com/wZ1LSWxv/Tangila-Khatun-2.png" width="100%" />
+
 
 # Hi there 👋
 
@@ -26,14 +27,14 @@ Currently, I am learning **advanced React, API integration**, and improving my u
 
 Thanks for visiting my profile. I hope you enjoy exploring my work.  
 
-![Profile Gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)
+
 
 ---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tangilakhatun)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/tangila.khatun.973846)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ktangila6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/tangila-khatun/)
 
 ---
 
